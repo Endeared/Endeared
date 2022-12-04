@@ -43,7 +43,7 @@
 
 <div>
 
-<img style="width: 50%; src="https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical" alt="Endeared">
+<img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical" alt="Endeared">
 
 
 </div>
