@@ -35,7 +35,7 @@
 
 <p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=dark" alt="Endeared"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=radical" alt="Endeared"/>
 
 </p>
 
@@ -43,7 +43,7 @@
 
 
 
-<div align = "center">
+<div align = "right">
 
 <p>
 
