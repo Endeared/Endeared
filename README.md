@@ -33,25 +33,20 @@
 
 
 <div style = "display: flex; flex-direction: row;">
-<div align = "center">
+<div style="width: 50%;>
 
-<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=radical" alt="Endeared"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=radical" alt="Endeared"/>
-
-</p>
 
 </div>
 
 
 
-<div align = "right">
+<div>
 
-<p>
 
 ![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical)
 
-</p>
 
 </div>
 </div>
