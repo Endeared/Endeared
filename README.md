@@ -32,18 +32,19 @@
 
 
 
-<div>
+<div align="center">
 
-<img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=radical" alt="Endeared"/>
+![Endeared's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=radical)
+
 
 
 </div>
 
 
 
-<div>
+<div align="center>
 
-<img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical" alt="Endeared">
+![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical)
 
 
 </div>
