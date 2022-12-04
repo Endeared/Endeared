@@ -31,6 +31,16 @@
 
 
 
+<div align = "center">
+
+<p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=dark" alt="Endeared"/>
+
+</p>
+
+</div>
+
 
 
 <div align = "center">
