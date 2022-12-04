@@ -32,10 +32,9 @@
 
 
 
-<div style = "display: flex; flex-direction: row;">
-<div style="width: 50%;>
+<div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=radical" alt="Endeared"/>
+<img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=radical" alt="Endeared"/>
 
 
 </div>
@@ -44,9 +43,7 @@
 
 <div>
 
+<img style="width: 50%; src="https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical" alt="Endeared">
 
-![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical)
 
-
-</div>
 </div>
