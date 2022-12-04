@@ -42,7 +42,7 @@
 
 
 
-<div align="center>
+<div align="center">
 
 ![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical)
 
