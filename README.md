@@ -31,6 +31,8 @@
 
 
 
+
+<div style = "display: flex; flex-direction: row;">
 <div align = "center">
 
 <p>
@@ -51,4 +53,5 @@
 
 </p>
 
+</div>
 </div>
