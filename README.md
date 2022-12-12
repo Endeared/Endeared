@@ -4,9 +4,9 @@
 
 <div align="center">
     
-Started Odin Project Foundations 11/29/22
-Finished Odin Project Foundations 12/10/22
-Started Odin Project Full Stack JS 12/10/22
+<p>Started Odin Project Foundations 11/29/22</p>
+<p>Finished Odin Project Foundations 12/10/22</p>
+<p>Started Odin Project Full Stack JS 12/10/22</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
