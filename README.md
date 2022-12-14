@@ -29,7 +29,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 
 
@@ -46,7 +46,7 @@
 ![Endeared's GitHub stats](https://github-readme-stats-lzsn.vercel.app/api?username=Endeared&show_icons=true&theme=radical)
 
 
-</div>
+</div> -->
 
 
 
