@@ -31,6 +31,8 @@
 
 <div align="center">
 
+
+
 ![Endeared's Languages](https://github-readme-stats-ka9s-endeared.vercel.app/api/top-langs?username=Endeared&show_icons=true&locale=en&layout=compact&theme=radical)
 
 
@@ -40,6 +42,8 @@
 
 
 <div align="center">
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=great-gatsby" alt="Endeared" />
 
 ![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical)
 
