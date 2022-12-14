@@ -29,5 +29,23 @@
 
 </div>
 
+<div align="center">
+
+![Endeared's Languages](https://github-readme-stats-ka9s.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=radical)
+
+
+
+</div>
+
+
+
+<div align="center">
+
+![Endeared's GitHub stats](https://github-readme-stats-ka9s.vercel.app/api?username=Endeared&show_icons=true&theme=radical)
+
+
+</div>
+
+
 
 
