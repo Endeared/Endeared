@@ -35,18 +35,6 @@
     
 </div>
 
-<div>
-    
-![Endeared's Languages](https://github-readme-stats-lzsn.vercel.app/api/top-langs?username=endeared&layout=compact&theme=radical)
-    
-</div>
-
-<div>
-    
-![Endeared's GitHub stats](https://github-readme-stats-lzsn.vercel.app/api?username=endeared&theme=radical)
-    
-</div>
-
 <div align="center">
     
 ![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&theme=radical)
