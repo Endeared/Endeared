@@ -29,7 +29,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 
 
@@ -43,12 +43,10 @@
 
 <div align="center">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=great-gatsby" alt="Endeared" />
-
 ![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endeared&show_icons=true&theme=radical)
 
 
-</div>
+</div> -->
 
 
 
