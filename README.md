@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![Endeared's Languages](https://github-readme-stats-ka9s.vercel.app/api/top-langs?username=endeared&show_icons=true&locale=en&layout=compact&theme=radical)
+![Endeared's Languages](https://github-readme-stats-ka9s.vercel.app/api/top-langs?username=Endeared&show_icons=true&locale=en&layout=compact&theme=radical)
 
 
 
