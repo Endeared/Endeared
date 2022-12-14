@@ -28,12 +28,12 @@
 ![](https://komarev.com/ghpvc/?username=Endeared&color=FF0000&label=Profile+visits:&style=flat)
 
 </div>
-
+<!-- 
 <div align="center">
 
 
 
-![Endeared's Languages](https://github-readme-stats-lzsn.vercel.app/api/top-langs?username=Endeared&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+![Endeared's Languages](https://github-readme-stats-lzsn.vercel.app/api/top-langs?username=Endeared&show_icons=true&locale=en&layout=compact&theme=radical)
 
 
 
@@ -43,11 +43,11 @@
 
 <div align="center">
 
-![Endeared's GitHub stats](https://github-readme-stats-lzsn.vercel.app/api?username=Endeared&show_icons=true&theme=gruvbox)
+![Endeared's GitHub stats](https://github-readme-stats-lzsn.vercel.app/api?username=Endeared&show_icons=true&theme=radical)
 
 
 </div>
-
+ -->
 
 
 
