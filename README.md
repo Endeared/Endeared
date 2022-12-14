@@ -30,14 +30,14 @@
 </div>
 
 <div align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!-- ![Endeared's Languages](https://github-readme-stats-lzsn.vercel.app/api/top-langs?username=Endeared&show_icons=true&locale=en&layout=compact&theme=radical) -->
 <!-- ![Endeared's GitHub stats](https://github-readme-stats-lzsn.vercel.app/api?username=Endeared&show_icons=true&theme=radical) -->
 
 <div align="center">
-[![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
