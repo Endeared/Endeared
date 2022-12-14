@@ -35,8 +35,17 @@
     
 </div>
 
-<!-- ![Endeared's Languages](https://github-readme-stats-lzsn.vercel.app/api/top-langs?username=Endeared&show_icons=true&locale=en&layout=compact&theme=radical) -->
-<!-- ![Endeared's GitHub stats](https://github-readme-stats-lzsn.vercel.app/api?username=Endeared&show_icons=true&theme=radical) -->
+<div>
+    
+![Endeared's Languages](https://github-readme-stats-lzsn.vercel.app/api/top-langs?username=endeared&layout=compact&theme=radical)
+    
+</div>
+
+<div>
+    
+![Endeared's GitHub stats](https://github-readme-stats-lzsn.vercel.app/api?username=endeared&theme=radical)
+    
+</div>
 
 <div align="center">
     
