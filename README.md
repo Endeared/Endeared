@@ -33,13 +33,13 @@
 
 <div align="center">
     
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&layout=compact&](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
 <div align="center">
     
-[![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
