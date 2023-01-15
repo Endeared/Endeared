@@ -33,7 +33,7 @@
 
 <div align="center">
     
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=endeared&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
