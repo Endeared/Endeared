@@ -18,7 +18,7 @@
 </br>
 
 <div align="center">
-    <img style="width:15vw;" src="endeared.png">
+    <img style="width:100vw;" src="banner.png">
 </div>
 
 <div align="center">
