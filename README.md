@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Endeared&color=FF0000&label=Profile+visits:&style=flat)
+![](https://komarev.com/ghpvc/?username=Endeared&color=F33F88&label=Profile+visits:&style=for-the-badge)
 
 </div>
 
