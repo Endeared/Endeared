@@ -18,8 +18,10 @@
 </br>
 
 <div align="center">
-    <img style="width:100vw;" src="banner.png">
+    <img style="width:100vw;" src="banner2.PNG">
 </div>
+
+</br>
 
 <div align="center">
 
