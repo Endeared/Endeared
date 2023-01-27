@@ -18,7 +18,7 @@
 </br>
 
 <div align="center">
-    <img style="width:100vw;" src="banner2.PNG">
+    ![Header](github-header-image (6).png)
 </div>
 
 </br>
