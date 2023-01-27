@@ -29,8 +29,8 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=endeared&theme=radical&card_width=700)](https://git.io/streak-stats)
-![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&show_icons=true&theme=radical&card_width=100&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&theme=radical)](https://github.com/endeared/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=endeared&theme=radical)](https://git.io/streak-stats)
+![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&show_icons=true&theme=radical&card_width=200)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&layout=compact&theme=radical)](https://github.com/endeared/github-readme-stats)
     
 </div>
