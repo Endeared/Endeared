@@ -17,9 +17,7 @@
 
 </br>
 
-<div align="center">
-    ![Header](github-header-image (6).png)
-</div>
+![Header](github-header-image.png)
 
 </br>
 
