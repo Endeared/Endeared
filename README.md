@@ -18,14 +18,24 @@
 </br>
 
 <div align="center">
-    ![Header](github-header-image (6).png)
+    <img style="width:100vw;" src="banner2.PNG">
+</div>
+
+</br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Endeared&color=F33F88&label=Profile+visits:&style=for-the-badge)
+
 </div>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Endeared&color=FF0000&label=Profile+visits:&style=flat)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=endeared&theme=radical)](https://git.io/streak-stats)
+![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&show_icons=true&theme=radical)
+    
 </div>
+
 
 <div align="center">
     
@@ -33,11 +43,7 @@
     
 </div>
 
-<div align="center">
-    
-![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&show_icons=true&theme=radical)
-    
-</div>
+
 
 
 
