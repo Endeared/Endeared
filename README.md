@@ -13,20 +13,20 @@
 
 </br>
 
-![Header](github-header-image.png)
+<!-- ![Header](github-header-image.png) -->
 
 </br>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Endeared&color=F33F88&label=Profile+visits:&style=for-the-badge)
+<!-- ![](https://komarev.com/ghpvc/?username=Endeared&color=F33F88&label=Profile+visits:&style=for-the-badge) -->
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=endeared&theme=radical)](https://git.io/streak-stats)
-![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&show_icons=true&theme=radical&card_width=200&line_height=20)
+<!-- ![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&show_icons=true&theme=radical&card_width=200&line_height=20) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&layout=compact&theme=radical)](https://github.com/endeared/github-readme-stats)
 
     
