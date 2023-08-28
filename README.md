@@ -27,7 +27,7 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=endeared&theme=radical)](https://git.io/streak-stats)
 <!-- ![Endeared's GitHub stats](https://github-readme-stats.vercel.app/api?username=endeared&show_icons=true&theme=radical&card_width=200&line_height=20) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&layout=compact&theme=radical)](https://github.com/endeared/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&layout=compact&theme=radical)](https://github.com/endeared/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endeared&theme=radical)](https://github.com/endeared/github-readme-stats)
 
     
