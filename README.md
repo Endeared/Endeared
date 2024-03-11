@@ -4,7 +4,7 @@
 
 ```
 Data Integration Intern @ Miami University (OH)
-AI / LLM Code Evaluator @ DataAnnotation
+Software Developer (AI Trainer) @ DataAnnotation
 ```
 ---
 
