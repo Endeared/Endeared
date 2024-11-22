@@ -3,8 +3,7 @@
 ---
 
 ```
-Data Integration Intern @ Miami University (OH)
-Software Developer (AI Trainer) @ DataAnnotation
+Software Developer (AI Trainer / Code Evaluator) @ DataAnnotation
 ```
 ---
 
